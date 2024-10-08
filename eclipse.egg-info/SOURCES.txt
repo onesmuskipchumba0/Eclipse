@@ -1,0 +1,9 @@
+README.md
+setup.py
+eclipse/__init__.py
+eclipse/main.py
+eclipse.egg-info/PKG-INFO
+eclipse.egg-info/SOURCES.txt
+eclipse.egg-info/dependency_links.txt
+eclipse.egg-info/requires.txt
+eclipse.egg-info/top_level.txt
